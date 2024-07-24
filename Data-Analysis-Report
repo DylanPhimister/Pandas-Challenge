@@ -1,3 +1,5 @@
+I used data analysis in Python to help the school board and mayor make strategic decisions regarding future school budgets and priorities. I aggregated the data to showcase obvious trends in school performance.
+
 Observable Trend 1: Charter schools have a higher percentage of passing overall for both math and reading combined as they have all the schools in the top five for best percentage of passing overall compared to District schools as they have the five lowest schools for percentage of passing overall.
 
 Observable Trend 2: The spending range '<$585' has the best scores across every column compared to the rest of the spending ranges. By this data, you can observe that spending less per student results in better overall scores. 
